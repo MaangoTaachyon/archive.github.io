@@ -16,6 +16,7 @@ Realized I had a file named "babuk_builder.zip" sitting on my computer that I ha
 Today's the day! This isn't the cutting edge of ransomware leaks but it is interesting none the less.
 
 
+## Objectives
 In this post I will go over:
 
     The process of generating ransomware with their builder
@@ -33,7 +34,7 @@ I am not an experienced reverse engineer or malware analyst. If you are looking 
  -----------------------------------------------------------------------------------------------------------------------
 
  
-
+## Setup
  I started out by downloading our sample from: https://vxug.fakedoma.in/tmp
 
 Which is my favorite malware repository and archive among other things, to a sand boxed Windows 7 installation with tools installed. 
@@ -43,7 +44,7 @@ Air gapping the VM by removing networking functionality, drag and drop/copy past
 If you would like a more polished experience check out: https://github.com/mandiant/flare-vm  "a fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing, etc." to use the authors own words. 
 
 
-  GENERATING RANSOMWARE!!
+## GENERATING RANSOMWARE!!
 
 Taking a quick glance at the source code using visual studio code (what the group clearly used to write this) 
 
@@ -58,7 +59,7 @@ Here we see that it's as simple as executing that previously mentioned exe file 
 (Upon deeper inspection there is functionality to "...pass as a second argument an actual elliptic curve encryption key, instead of letting the builder generate it for us, allowing the ransomware operator to use the same decryption executable for different builds. Furthermore, it has been observed that, if no encryption key is specified as an argument, the key would be generated randomly."
 as written in: https://lab52.io/blog/quick-review-of-babuk-ransomware-builder/
 
-  FEATURES OF THE GENERATED MALWARE
+## FEATURES OF THE GENERATED MALWARE
 
 ![](/assets/images/babukPost/ransom4.png)
 
@@ -72,13 +73,13 @@ Today I am going to run the e_win executable and check out the results. The exsi
 
 ![](/assets/images/babukPost/ransom-note.jpg)
 
-  ANY.RUN analysis and IOCs (Indicators of compromise)
+## ANY.RUN analysis and IOCs (Indicators of compromise)
 In the note dropped by an unedited note file build of babuk ransomware there is a link to this onion address:  
 tsu2dpiiv4zjzfyq73eibemit2qyrimbbb6lhpm6n5ihgallom5lhdyd.onion (click at your own risk)
 
 ![](/assets/images/babukPost/ransom5.png)
 
-Sources:
+## Sources:
 
 https://blog.talosintelligence.com/2021/11/babuk-exploits-exchange.html
 
