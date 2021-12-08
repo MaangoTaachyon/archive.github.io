@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Leaked Babuk Ransomware Builder Fun!! 
+title: Microsoft Ignite: Security Operations Analyst Challenge 
 date: 2021-12-8
 classes: wide
 header:
