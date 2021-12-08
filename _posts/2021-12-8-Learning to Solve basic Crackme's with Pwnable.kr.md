@@ -22,7 +22,7 @@ https://research.checkpoint.com/wp-content/uploads/2020/03/pwnable_writeup.pdf
 I attempted http://microcorruption.com/  but with my current knowledge I can't even begin to understand what's going on. I would have to continue on the SLAE course and work more with disassemblers to read the assembly instructions and work with their debugger.
 
 Onto pwnable.kr challenges, challenge 0x02 Bof, a buffer overflow challenge with the source code included to look at.
-![](/assets/images/learning-crackme/)
+![](/assets/images/learning-crackme/crackme.png)
 
 They initialize key as a variable, initialize a buffer of 32 bits for "overflow me", prints that statement to console. 
 
