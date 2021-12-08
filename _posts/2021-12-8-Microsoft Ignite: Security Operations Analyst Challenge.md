@@ -3,6 +3,8 @@ layout: single
 title:  Microsoft Ignite: Security Operations Analyst Challenge 
 date: 2021-12-8
 classes: wide
+header:
+  teaser:
 tags:
   - Certification
   - Blue Team
