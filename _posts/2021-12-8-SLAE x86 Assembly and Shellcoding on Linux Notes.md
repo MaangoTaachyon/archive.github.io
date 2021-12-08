@@ -6,8 +6,8 @@ classes: wide
 header:
   teaser:
 tags:
-  - Ransomware
-  - Malware analysis
+  - Certification
+  - pwn
 --- 
  
 Notes taken while going through the Pentester Academy x86 Assembly and Shellcoding on Linux Course.
