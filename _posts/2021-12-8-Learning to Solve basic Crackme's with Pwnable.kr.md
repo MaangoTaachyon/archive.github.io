@@ -16,8 +16,9 @@ tags:
 Throughout the journey I will reference multiple sources and people to gain a better understanding of binary exploitation and reverse engineering at large.
 To being in my journey I will go through
 https://research.checkpoint.com/wp-content/uploads/2020/03/pwnable_writeup.pdf
------------------------------------------------------------
 
+-----------------------------------------------------------
+-----------------------------------------------------------
 
 I attempted http://microcorruption.com/  but with my current knowledge I can't even begin to understand what's going on. I would have to continue on the SLAE course and work more with disassemblers to read the assembly instructions and work with their debugger.
 
