@@ -1,13 +1,13 @@
- ---
+---
 layout: single
-title: SLAE x86 Assembly and Shellcoding on Linux Notes 
+title: Leaked Babuk Ransomware Builder Fun!! 
 date: 2021-12-8
 classes: wide
 header:
-  teaser:
+  teaser: /assets/images/ransom-note.jpg
 tags:
-  - pwn
-  - Certification
+  - Ransomware
+  - Malware analysis
 --- 
  
 Notes taken while going through the Pentester Academy x86 Assembly and Shellcoding on Linux Course.
