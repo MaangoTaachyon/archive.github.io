@@ -1,13 +1,13 @@
 ---
 layout: single
-title:  Microsoft Ignite: Security Operations Analyst Challenge 
+title: Leaked Babuk Ransomware Builder Fun!! 
 date: 2021-12-8
 classes: wide
 header:
-  teaser:
+  teaser: /assets/images/ransom-note.jpg
 tags:
-  - Certification
-  - Blue Team
+  - Ransomware
+  - Malware analysis
 --- 
 
 The Security Operations Analyst Challenge was a great opportunity to learn about Microsoft's solutions to endpoint and cloud security.
