@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "tkyn"
-  avatar : "/assets/images/arabcat.png"
+  avatar : "/assets/images/arabcat.PNG"
   bio    : "Musings from a mediocre hacker"
   links:
     - label: "Website"
