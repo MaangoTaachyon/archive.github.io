@@ -10,5 +10,7 @@ Attending university majoring in CS. On the road to becoming OSCP and OSCE certi
 
 
 You can reach me at mangogumbo@protonmail.com
+
 discord:  bacononrye#6525
-linkedin: https://www.linkedin.com/in/thomas-keefer-a7345017a/
+
+linkedin: https://www.linkedin.com/in/thomas-keeferiii/
