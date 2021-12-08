@@ -1,13 +1,13 @@
 ---
 layout: single
-title: Microsoft Ignite: Security Operations Analyst Challenge 
+title: Microsoft Ignite Security Operations Analyst Challenge 
 date: 2021-12-8
 classes: wide
 header:
-  teaser: /assets/images/ransom-note.jpg
+  teaser:
 tags:
-  - Ransomware
-  - Malware analysis
+  - Certification
+  - Blue Team
 --- 
 
 The Security Operations Analyst Challenge was a great opportunity to learn about Microsoft's solutions to endpoint and cloud security.
