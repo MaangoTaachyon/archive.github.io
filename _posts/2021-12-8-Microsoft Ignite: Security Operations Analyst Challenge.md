@@ -9,9 +9,6 @@ tags:
   - Certification
   - Blue Team
 --- 
-
-
-
 The Security Operations Analyst Challenge was a great opportunity to learn about Microsoft's solutions to endpoint and cloud security.
 Including but not limited to:
 
