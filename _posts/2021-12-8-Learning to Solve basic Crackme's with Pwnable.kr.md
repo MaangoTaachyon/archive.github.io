@@ -14,7 +14,9 @@ tags:
 
 
 Throughout the journey I will reference multiple sources and people to gain a better understanding of binary exploitation and reverse engineering at large.
-To being in my journey I will go through
+
+To bein in my journey I will go through
+
 https://research.checkpoint.com/wp-content/uploads/2020/03/pwnable_writeup.pdf
 
 -----------------------------------------------------------
