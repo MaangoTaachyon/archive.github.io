@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Leaked Babuk Ransomware Builder Fun!! 
+title:  SLAE x86 Assembly and Shellcoding on Linux Notes 
 date: 2021-12-8
 classes: wide
 header:
