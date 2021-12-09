@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Leaked Babuk Ransomware Builder Fun!! 
-date: 2021-12-8
+date: 2021-12-9
 classes: wide
 header:
   teaser: /assets/images/ransom-note.jpg
