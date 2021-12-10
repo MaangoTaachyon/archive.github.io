@@ -10,11 +10,9 @@ tags:
   - Malware analysis
 --- 
 
-![](/assets/images/babukPost/ransom-built.png)
-
 Realized I had a file named "babuk_builder.zip" sitting on my computer that I haven't messed with. 
 Today's the day! This isn't the cutting edge of ransomware leaks but it is interesting none the less.
-
+![](/assets/images/babukPost/ransom-built.png)
 
 ## Objectives
 In this post I will go over:
