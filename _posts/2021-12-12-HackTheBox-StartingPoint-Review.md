@@ -10,8 +10,7 @@ tags:
   - Certification
 --- 
 
-##HackTheBox Starting Point Review
-
+## Body
 I completed the starting point track from HackTheBox. It builds off of the principles that you learn in the Academy which I also finished. 
 You can see my review here -> {link}
 
@@ -27,9 +26,14 @@ Speaker with three sound waves Until Dec 31 ALL 16 Starting Point Machines are F
 Wrapped present Complete all tasks & get rewarded with a 25% OFF on our monthly VIP+ subscription
 Start #hacking now: https://hackthebox.com"
 
-![](/assets/images/Startingpoint-Academy/startingpoint.PNG)
-![](/assets/images/Startingpoint-Academy/startingpoint.PNG2)
-![](/assets/images/Startingpoint-Academy/startingpoint.PNG3)
-![](/assets/images/Startingpoint-Academy/startingpoint.PNG4)
+## PROOF
 
+![](/assets/images/Startingpoint-Academy/startingpoint.PNG)
+ 1
+![](/assets/images/Startingpoint-Academy/startingpoint.PNG2)
+2
+![](/assets/images/Startingpoint-Academy/startingpoint.PNG3)
+3
+![](/assets/images/Startingpoint-Academy/startingpoint.PNG4)
+4
 
