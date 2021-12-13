@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  HackTheBox-StartingPoint-Review
-date: 2021-12-8
+date: 2021-12-12
 classes: wide
 header:
   teaser: 
@@ -10,7 +10,7 @@ tags:
   - Certification
 --- 
 
-## Body
+## Review
 I completed the starting point track from HackTheBox. It builds off of the principles that you learn in the Academy which I also finished. 
 You can see my review here -> {link}
 
@@ -30,10 +30,10 @@ Start #hacking now: https://hackthebox.com"
 
 ![](/assets/images/Startingpoint-Academy/startingpoint.PNG)
  1
-![](/assets/images/Startingpoint-Academy/startingpoint.PNG2)
+![](/assets/images/Startingpoint-Academy/startingpoint2.PNG)
 2
-![](/assets/images/Startingpoint-Academy/startingpoint.PNG3)
+![](/assets/images/Startingpoint-Academy/startingpoint3.PNG)
 3
-![](/assets/images/Startingpoint-Academy/startingpoint.PNG4)
+![](/assets/images/Startingpoint-Academy/startingpoint4.PNG4)
 4
 
