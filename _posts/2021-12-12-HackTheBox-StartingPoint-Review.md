@@ -29,11 +29,11 @@ Start #hacking now: https://hackthebox.com"
 ## PROOF
 
 ![](/assets/images/Startingpoint-Academy/startingpoint.PNG)
- 1
+ 
 ![](/assets/images/Startingpoint-Academy/startingpoint2.PNG)
-2
+
 ![](/assets/images/Startingpoint-Academy/startingpoint3.PNG)
-3
-![](/assets/images/Startingpoint-Academy/startingpoint4.PNG4)
-4
+
+![](/assets/images/Startingpoint-Academy/startingpoint4.PNG)
+
 
