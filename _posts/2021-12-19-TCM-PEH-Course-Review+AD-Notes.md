@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  TCM-PEH-Course-Review+AD-Notes
+title:  TCM PEH Course Review+AD Notes
 date: 2021-12-19
 classes: wide
 header:
