@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  HackTheBox-StartingPoint-Review
+title:  HackTheBox StartingPoint Review
 date: 2021-12-12
 classes: wide
 header:
