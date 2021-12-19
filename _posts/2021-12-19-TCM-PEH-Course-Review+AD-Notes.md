@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  2021-12-19-TCM-PEH-Course-Review+AD-Notes
+title:  TCM-PEH-Course-Review+AD-Notes
 date: 2021-12-19
 classes: wide
 header:
@@ -16,12 +16,17 @@ A little while ago I was gifted the PEH course by TCM from someone in his server
 TL;DR The PEH course is a wonderful introduction to pentesting and I would reccomend it to learn the basics.
 
 The course covers:
+
 ![](/assets/images/TCMPEH.PNG)
 
-The course is frequently on discount and is worth every penny.
+It is frequently on discount and is worth every penny.
+
 While this information could be found in other places, Heath's style of teaching is comprehensive and easy to follow along with.
+
 He walks through a couple of boxes from HacktheBox.eu which really help with getting that initial grasp on your own methodology.
+
 The buffer overflow video made binary exploitation a bit more palatable than I was expecting.
+
 
 Here are some notes that I took from the Active Directory portion of the course. Not meant to be a polished guide for use by others :)
 
