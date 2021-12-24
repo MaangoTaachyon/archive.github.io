@@ -13,4 +13,3 @@ You can reach me at mangogumbo@protonmail.com
 
 discord:  bacononrye#6525
 
-linkedin: https://www.linkedin.com/in/thomas-keeferiii/
