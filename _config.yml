@@ -60,18 +60,13 @@ author:
   avatar : "/assets/images/arabcat.png"
   bio    : "Musings from a mediocre hacker"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://tkyn.dev/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/TKYNSEC/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MaangoTaachyon"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/thomas-keeferIII"
+    
 
 footer:
   links:
@@ -81,9 +76,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "ttps://github.com/MaangoTaachyon"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/thomas-keeferIII"
 
 defaults:
   # _posts
