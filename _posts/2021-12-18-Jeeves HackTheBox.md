@@ -19,6 +19,7 @@ Starting off by scanning ports.
 
 See there is at least one webserver. Fuzz directories, ran nikto etc. Nothing of real interest there.
 Check out the second Jetty webserver spotted in the nmap scan. gobuster until we find askjeeves	
+
 ![](/assets/images/Jeeves/jeeves1finsihsed.PNG)
 
 Stumble accross the scripting console

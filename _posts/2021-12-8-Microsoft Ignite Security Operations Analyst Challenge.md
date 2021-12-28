@@ -24,7 +24,7 @@ Microsoft 365 Defender
 
 Azure AD Identity Protection
 
- Microsoft Cloud App Security 
+Microsoft Cloud App Security 
 
 Microsoft Sentinel 
 
