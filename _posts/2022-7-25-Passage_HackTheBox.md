@@ -11,6 +11,9 @@ tags:
   - Linux
 --- 
 
+This box was made by my buddy @ChefByzen on Twitter, I know him from our Uni CTF team. Very cool box!
+
+Let's get into it.
 I started off by enumerating like usual with NMAP
 ```
 # Nmap 7.80 scan initiated Sat Sep 26 16:38:13 2020 as: nmap -sCV -p- -vvv -A -T4 -oA passage 10.10.10.206
