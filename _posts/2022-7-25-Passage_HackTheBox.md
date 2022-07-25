@@ -52,7 +52,7 @@ So gobuster is out of the question to enumerate directories.
 I set out to investigate the site manually by playing around and I saw that it is powered by cutenews
 After searching around I came across two exploits for it. 
 One was metasploit and the other someone had written a python script for after the box was released.
-The author of th ebox says that the intended route is with metasploit.
+The author of the box says that the intended route is with metasploit.
 
 In either case you get a shell as www-data, we can't get the flag just yet. We have to escalate privileges to get the user flag. 
 
@@ -96,7 +96,7 @@ Then we throw that hash we found into a hash analyzer and realize it's sha-256, 
 ![](/assets/images/PassageHTB/analyzer.png)
 
 We could easily enough crack it with hashcat but this online service did it in less than a second.
-![[hashcrack.png]]
+![](/assets/images/PassageHTB/hashcrack.png)
 If you want to take a more manual approach with hashcat yourself you could do it with 
 ```
 hashcat -m 1400 paul.txt /usr/share/wordlists/rockyou.txt
