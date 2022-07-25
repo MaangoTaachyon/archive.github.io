@@ -1,3 +1,16 @@
+---
+layout: single
+title:  Passage HackTheBox Walkthrough
+date: 2022-7-25
+classes: wide
+header:
+  teaser: 
+tags:
+  - HackTheBox
+  - ctf
+  - Linux
+--- 
+
 I started off by enumerating like usual with NMAP
 ```
 # Nmap 7.80 scan initiated Sat Sep 26 16:38:13 2020 as: nmap -sCV -p- -vvv -A -T4 -oA passage 10.10.10.206
