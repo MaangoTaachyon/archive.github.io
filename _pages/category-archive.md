@@ -35,6 +35,8 @@ author_profile: true
 
 <ul>
 
+<li><a href="https://tkyn.dev/TCM-PNPT-Certification-Review/">TCM PNPT Certification Review</a></li>
+  
 <li><a href="https://tkyn.dev/HackTheBox-StartingPoint-Review/">Starting Point Review - HackTheBox</a></li>
 
 <li><a href="https://tkyn.dev/Sektor7-Malware-Development-Course/">Sektor7 Malware Development Course, Notes and Thoughts in Progress</a></li>
