@@ -8,7 +8,8 @@ header:
 tags:
   - Certification
 ---
-#TL;DR | Summary
+# TL;DR | Summary
+
 The Practical Network Penetration Tester certification exam from TCM Security is a simulated 5-day penetration test with the intent of proving a baseline level of offensive security prowess for the student. The exam environment is varied, primarily consisting of Windows machines but also contains Linux hosts. 2 additional days were given for reporting on remediation of vulnerabilities found and compliance steps to be taken. The goal of the hands on 5-day exam portion is to assess the entire environment for any and all vulnerabilities, but to pass, at a minimum you must gain administrative access as the domain controller. To be successful in the exam I would recommend studying the following topics as they were essential to passing.
 
 ```
