@@ -10,8 +10,9 @@ tags:
   - Video
 ---
 
-Links for the video posted on my youtube channel! Check it out. 
-https://www.youtube.com/watch?v=F8zlx5d4UyA
+Links for the video posted on my youtube channel! Check it out.  
+https://www.youtube.com/watch?v=F8zlx5d4UyA  
+
 
 Resources:  
   
