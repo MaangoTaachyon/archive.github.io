@@ -66,6 +66,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MaangoTaachyon"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCuGoduQqq2FRPRZPnnLBK8g"
     
 
 footer:
@@ -76,6 +79,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "ttps://github.com/MaangoTaachyon"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCuGoduQqq2FRPRZPnnLBK8g"
 
 defaults:
   # _posts
