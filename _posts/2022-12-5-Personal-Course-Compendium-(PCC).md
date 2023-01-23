@@ -1,4 +1,20 @@
+---
+layout: single
+title:  Personal Course Compendium (PCC)
+date: 2022-12-5
+classes: wide
+header:
+  teaser: 
+tags:
+  - Certification
+  - Review
+--- 
+
+# Personal Course Compendium (PCC)
+
 I'm starting this file as a tracking mechanism for courses I have completed and ones I am in the process of completing. 
+
+---
 
 | Course        | Description/Skills Practiced | Status | Link|
 | ------------ | ------------ | --- | --- | 
@@ -10,5 +26,7 @@ I'm starting this file as a tracking mechanism for courses I have completed and 
 | TCM Web Application Security and Testing | Intro to web app testing, more for refining my methodology than first exposure. From the course author "... basics of HTTP, servers, and clients, before moving through the OWASP Top 10 on our way to a full demonstration penetration test. We also cover the reporting process for web application assessments ..." | Complete | https://academy.tcm-sec.com/p/practical-web-application-security-and-testing | 
 | x86 Assembly Language and Shellcoding on Linux | Haven't finished this course as of yet, good introduction and exercises for learning assembly. | 50% | https://www.pentesteracademy.com/course?id=3 - https://tkyn.dev/SLAE-x86-Assembly-and-Shellcoding-on-Linux-Notes/|
 | Sektor7 Malware Development Essentials | Haven't finished this course either, need to get more familiar with C. From the author: It will teach you how to develop your own custom malware for latest Microsoft Windows 10. And by custom malware we mean building a dropper for any payload you want (Metasploit meterpreter, Empire or Cobalt Strike beacons, etc.), injecting your shellcodes into remote processes, creating trojan horses (backdooring existing software) and bypassing Windows Defender AV. | 30% | https://institute.sektor7.net/red-team-operator-malware-development-essentials - https://tkyn.dev/Sektor7-Malware-Development-Course/ | 
+
+---
 
 ![](/assets/images/PCC.png)
