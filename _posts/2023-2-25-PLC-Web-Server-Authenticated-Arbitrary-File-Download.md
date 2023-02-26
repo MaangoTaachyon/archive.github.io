@@ -1,6 +1,6 @@
 ---
 layout: single
-title: PLC Web Server Arbitrary File Download to (potential) RCE
+title: PLC Web Server Arbitrary File Download
 date: 2023-2-26
 classes: wide
 header:
